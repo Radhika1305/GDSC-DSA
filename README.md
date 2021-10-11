@@ -1,3 +1,3 @@
 # GDSC-DSA
-Uploaded Assignment 1
-Uploaded Assignment 2
+*  Uploaded Assignment 1
+*  Uploaded Assignment 2
