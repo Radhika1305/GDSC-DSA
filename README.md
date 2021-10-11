@@ -1,5 +1,5 @@
 # GDSC-DSA
-[]  Uploaded Assignment 1
+## [ ]  Uploaded Assignment 1
 -  https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1/?category[]=Arrays&category[]=Arrays&difficulty[]=0&page=1&query=category[]Arraysdifficulty[]0page1category[]Arrays ✔️
 -  https://practice.geeksforgeeks.org/problems/first-repeating-element4018/1/?category[]=Arrays&category[]=Arrays&difficulty[]=0&page=2&query=category[]Arraysdifficulty[]0page2category[]Arrays
 -  https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
@@ -10,7 +10,7 @@
 -  https://leetcode.com/problems/monotonic-array/
 -  https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1
 -  https://leetcode.com/problems/two-sum/
-[]  Uploaded Assignment 2
+## []  Uploaded Assignment 2
 -  https://leetcode.com/problems/3sum/
 -  https://leetcode.com/problems/maximum-subarray/
 -  https://practice.geeksforgeeks.org/problems/ease-the-array0633/1/?category[]=Arrays&category[]=Arrays&difficulty[]=0&page=3&query=category[]Arraysdifficulty[]0page3category[]Arrays ✔️
