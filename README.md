@@ -19,3 +19,6 @@
 -  https://leetcode.com/problems/search-insert-position/
 -  https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1 ✔️
 -  https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1 ✔️
+
+
+https://docs.google.com/spreadsheets/d/1rNBOk6UrCqronBx60102CUlzKTcoZ-BK2a-aRXuTwqU/edit#gid=0
